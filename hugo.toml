@@ -1,4 +1,7 @@
 baseURL = "https://d415y.github.io/lanaswebsite/"
-languageCode = 'en-us'
-theme = "hugo-PaperMod"
+languageCode = "en-us"
 title = "Lanas Website"
+theme = "hugo-PaperMod"
+
+relativeURLs = true
+canonifyURLs = true
