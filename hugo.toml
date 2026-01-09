@@ -1,4 +1,4 @@
-baseURL = "https://d415y.github.io/lanaswebsite/"
+baseURL = "https://github.com/d415y/lanaswebsite"
 languageCode = 'en-us'
 theme = "hugo-PaperMod"
 title = "Lanas Website"
