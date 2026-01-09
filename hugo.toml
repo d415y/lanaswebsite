@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://d415y.github.io/lanaswebsite/"
 languageCode = 'en-us'
 theme = "hugo-PaperMod"
 title = "Lanas Website"
