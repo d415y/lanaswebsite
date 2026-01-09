@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Lanas Website</title>
+    <title>Lana&#39;s Website</title>
     <link>https://d415y.github.io/lanaswebsite/</link>
-    <description>Recent content on Lanas Website</description>
+    <description>Recent content on Lana&#39;s Website</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate>
@@ -14,13 +14,18 @@
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://d415y.github.io/lanaswebsite/posts/my-first-post/</guid>
       <description>&lt;p&gt;This is my first post on my website 🎉&lt;/p&gt;
-&lt;p&gt;I built this site using **Hugo**, **GitHub**, and **PaperMod**.&lt;/p&gt;
-&lt;p&gt;## About me&lt;/p&gt;
-&lt;p&gt;I’m interested in cybersecurity, cloud, and learning new things.&lt;/p&gt;
-&lt;p&gt;- Bullet points work&lt;/p&gt;
-&lt;p&gt;- **Bold text**&lt;/p&gt;
-&lt;p&gt;- *Italic text*&lt;/p&gt;
 &lt;p&gt;Thanks for visiting!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://d415y.github.io/lanaswebsite/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://d415y.github.io/lanaswebsite/about/</guid>
+      <description>&lt;p&gt;Hi! I’m Lana.&lt;/p&gt;
+&lt;p&gt;I’m interested in **cloud security**, **cybersecurity**, and building projects.&lt;/p&gt;
+&lt;p&gt;- Cloud Security Engineer&lt;/p&gt;
+&lt;p&gt;- Azure / Microsoft Defender / Sentinel&lt;/p&gt;
+&lt;p&gt;- CTFs &amp;amp; learning offensive security&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
