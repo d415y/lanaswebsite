@@ -1,5 +1,21 @@
 baseURL = "https://d415y.github.io/lanaswebsite/"
 languageCode = "en-us"
 title = "Lana's Website"
-theme = "ananke"
+theme = "PaperMod"
 
+[params]
+defaultTheme = "dark"
+ShowReadingTime = true
+
+[params.profileMode]
+enabled = true
+title = "Hi, I’m Lana 👋"
+subtitle = "Cloud Security • Cybersecurity • Learning & Building"
+
+[[params.profileMode.buttons]]
+name = "About"
+url = "/about/"
+
+[[params.profileMode.buttons]]
+name = "Posts"
+url = "/posts/"
